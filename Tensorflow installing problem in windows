@@ -1,0 +1,15 @@
+These days, I start learning machine learning, and I use tensorflow to learn machine learning
+And I met some hard problem in installing tensorflow;
+
+/*My device info*/
+/*Operating system: windows 10*/
+/tensorflow version: cpu version*/
+
+//Here is my problem
+
+question:Error:Cannot uninstall 'werkzeug'..
+solution:pip install werkzeug --ignore-installed
+
+I find one interesting thing when I meet these problems,you can use these code to solve most of these problems.
+
+pip install module --ignore-installed 
